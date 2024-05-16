@@ -3,10 +3,12 @@ const dropContainer = document.getElementById('container');
 const warning = document.getElementById('warning');
 const fileInput = document.getElementById('fileUploader');
 
+
 function preventDefaults(e) {
   e.preventDefault()
   e.stopPropagation()
 };
+
 
 ['dragenter', 'dragover'].forEach(eventName => {
   dropContainer.addEventListener(eventName, e => dropContainer.classList.add('highlight'), false)
