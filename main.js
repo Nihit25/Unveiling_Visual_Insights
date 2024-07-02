@@ -1,5 +1,6 @@
 const image = document.getElementById('image');
 // The image we want to classify
+
 const dropContainer = document.getElementById('container');
 const warning = document.getElementById('warning');
 const fileInput = document.getElementById('fileUploader');
