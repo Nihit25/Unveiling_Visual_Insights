@@ -1,4 +1,5 @@
 const image = document.getElementById('image');
+
 // The image we want to classify
 
 const dropContainer = document.getElementById('container');
