@@ -22,11 +22,11 @@ html, body {
     width: 100%;
     text-align: center;
   }
-  
+
   #instruction {
     margin-top: 20px;
   }
-  
+
   .result-color {
     color: #A159FC;
   }
