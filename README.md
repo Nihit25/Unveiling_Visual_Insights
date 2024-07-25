@@ -1,7 +1,6 @@
 # Unveiling_Visual_Insights
 
 
-
 Unveiling_Visual_Insights app made using ml5.js. ml5 uses a MobileNet (a type of machine learning "pre-trained" model) created with TensorFlow.js, a JavaScript library from TensorFlow.
 
 It use neural networks to recognize the content of images. ml5.imageClassifier() is a method to create an object that classifies an image using a pre-trained model.
